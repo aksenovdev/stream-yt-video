@@ -2,7 +2,7 @@
   "name": "youtube-mp3-streamer-service",
   "version": "1.0.0",
   "description": "",
-  "main": "lib/server.js",
+  "main": "dist/server.js",
   "scripts": {
     "start": "node lib/server.js",
     "dev": "tsx src/server.ts",
